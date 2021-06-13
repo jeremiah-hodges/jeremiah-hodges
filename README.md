@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical coding, languages, and machine learning
 - 🌱 I’m currently learning ... python :) 
 - 💞️ I’m looking to collaborate on ... coming soon
-- 📫 How to reach me ... jh40 @ duke dot com
+- 📫 How to reach me ... jh640 @ duke dot com
 
 <!---
 jeremiah-hodges/jeremiah-hodges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
